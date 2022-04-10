@@ -6,5 +6,5 @@
 
 `php -S localhost:4200`
 
-## (Live Demo) [https://shaliaramiah.github.io/Snake-Game-js/]
+## [Live Demo](https://shaliaramiah.github.io/Snake-Game-js/)
 
